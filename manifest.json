@@ -1,6 +1,7 @@
 {
   "name": "Akhesingot Tattoo Art",
   "short_name": "Tattoo Art",
+  "description": "Professional tattoo studio offering custom tattoo designs and artistic body art.",
   "start_url": "/",
   "display": "standalone",
   "background_color": "#000000",
@@ -17,6 +18,14 @@
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "any maskable"
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "form_factor": "narrow"
     }
   ]
 }
