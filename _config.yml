@@ -1,0 +1,22 @@
+# ==========================================
+# Akhesingot Tattoo Art - Official SEO Config
+# ==========================================
+
+# Google me dikhne wala website ka main naam
+title: "Akhesingot Tattoo Art | Best Tattoo Studio in Jaipur"
+
+# Google ke liye website ki jaankari (Keywords ke sath)
+description: "Looking for the best tattoo artist in Jaipur? Akhesingot Tattoo Art offers premium, hygienic, and custom tattoo designs, portraits, and body art at affordable prices."
+
+# Aapki website ka sahi aur asli link
+url: "https://akhesingottattooart.github.io"
+baseurl: ""
+
+# Google ke robots ke liye automatic Sitemap aur SEO tags banana
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+# Extra SEO Settings
+author: "Akhesingot Tattoo"
+lang: "en"
